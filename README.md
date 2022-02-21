@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomashiwa&label=Profile%20views&color=cb0101&style=flat" alt="tomashiwa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomashiwa" alt="tomashiwa" /></a> </p>
-
 - 🔭 I’m currently working on [PeerWatch](https://peerwatch.netlify.app/)
 
 - 🌱 I’m currently trying to improve my **React** skills further
@@ -26,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomashiwa&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="tomashiwa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomashiwa&theme=dark" alt="tomashiwa" /></p>
+
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomashiwa" alt="tomashiwa" /></a> </p>
+
